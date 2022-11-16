@@ -1,0 +1,52 @@
+[
+  {
+    "nombre": "Remera de la Seleccion Argentina",
+    "codigo": "remeras",
+    "descripcion": "Remera original color violeta",
+    "precio": 15000,
+    "imagen": "https://i.postimg.cc/SQBTDwt9/arg.webp",
+    "stock": 10,
+    "timeStamp": 1668546413025,
+    "id": 1
+  },
+  {
+    "nombre": "Remera titular de la Seleccion Argentina",
+    "codigo": "remeras",
+    "descripcion": "Remera original color celeste y blanco",
+    "precio": 15000,
+    "imagen": "https://i.postimg.cc/gJDS1cSj/arg2.webp",
+    "stock": 10,
+    "timeStamp": 1668546566654,
+    "id": 2
+  },
+  {
+    "nombre": "Short Suplente de la Seleccion Argentina",
+    "codigo": "shorts",
+    "descripcion": "Remera original color violeta ",
+    "precio": 7000,
+    "imagen": "https://i.postimg.cc/R0GwB3Bk/short.jpg",
+    "stock": 5,
+    "timeStamp": 1668546781437,
+    "id": 3
+  },
+  {
+    "nombre": "Short titular de la Seleccion Argentina",
+    "codigo": "shorts",
+    "descripcion": "Remera original color celeste y blanco",
+    "precio": 7000,
+    "imagen": "https://i.postimg.cc/5NqB3Kr9/short2.jpg",
+    "stock": 5,
+    "timeStamp": 1668546863389,
+    "id": 4
+  },
+  {
+    "nombre": "Remera de la Seleccion",
+    "codigo": "remeras",
+    "descripcion": "Remera 100 original ",
+    "precio": 15000,
+    "imagen": "https://i.postimg.cc/SQBTDwt9/arg.webp",
+    "stock": 10,
+    "timeStamp": 1668547264315,
+    "id": 5
+  }
+]
